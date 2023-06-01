@@ -22,3 +22,5 @@ app.get('/comments', function(request, response) {
   var comments = [
     {
       id: 1,
+    }
+]});
